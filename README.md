@@ -35,3 +35,5 @@ cnn-image-classification-tf/
 
 ---
 
+## License
+MIT License – see LICENSE for details.
