@@ -13,6 +13,23 @@ This repository demonstrates two convolutional neural network (CNN) pipelines fo
 
 ## 📁 Repository Structure
 cnn-image-classification-tf/
+```
+│
+├── README.md
+├── requirements.txt
+│
+├── src/
+│ ├── cnn_from_scratch.ipynb
+│ └── transfer_learning_mobilenetv2.ipynb
+│
+├── data/
+│ ├── raw/
+│ └── processed/
+│
+└── models/
+├── cnn_cifar10.keras
+└── dogs_vs_cats.keras
+```
 
 
 ---
